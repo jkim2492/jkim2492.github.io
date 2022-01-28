@@ -1,7 +1,7 @@
 ---
 title: "Summary of RSA based probabilistic cryptosystems"
 collection: notes
-# permalink: /publication/rsaExposition
+# permalink: /writings/rsaExposition
 excerpt: 'A brief survey of RSA based cryptosystems.'
 date: 2018-08-31
 venue: ' '
