@@ -18,7 +18,7 @@ redirect_from:
 
 <!-- About me
 ------ -->
-I am a MSc student at Western University studying Mathematics. My current research interests include graph theory, and homotopy theory.
+I am a MSc student at Western University studying Mathematics under the supervision of Dr. Krzysztof Kapulkin. My current research interests include graph theory, and homotopy theory.
 
 <!-- **Markdown generator**
 
